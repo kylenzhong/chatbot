@@ -17,7 +17,7 @@ app.get('/', function(req, res){
 	res.send("Hi I'm a chatbot")
 })
 
-//token = "EAACqiDyR6mEBAJBHZAPPmKYh46H9R9PZABsMtyPpyAuKApOsk3NfIVxelkP5anHhpvZCIObwJQVtSHDcJ35YAX6DmXh0VgFc3UWbyDvPlalqYgbmXTZCExcYUB4ZAFiZAzd9E0wNaBnFO2tqRdhAYrjJyu9kw0itKJGBXgolVDEgZDZD"
+let token = "EAACqiDyR6mEBAJBHZAPPmKYh46H9R9PZABsMtyPpyAuKApOsk3NfIVxelkP5anHhpvZCIObwJQVtSHDcJ35YAX6DmXh0VgFc3UWbyDvPlalqYgbmXTZCExcYUB4ZAFiZAzd9E0wNaBnFO2tqRdhAYrjJyu9kw0itKJGBXgolVDEgZDZD"
 
 app.get('/webhook/', function(req, res){
 	if(req.query['hub.verify_token'] === "sherlocked"){
@@ -27,7 +27,7 @@ app.get('/webhook/', function(req, res){
 
 })
 
-/*
+
 app.post('/webhook/', function(req, res){
 	let messaging_events = req.body.entry[0].messaging_events
 	for (let i = 0; i< messaging_events.length; i++){
@@ -59,7 +59,7 @@ function sendText(sender, text){
 		}
 	})
 }
-*/
+
 app.listen(app.get('port'), function(){
 	console.log("running:port")
 })
