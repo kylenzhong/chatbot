@@ -17,10 +17,10 @@ app.get('/', function(req, res){
 	res.send("Hi I'm a chatbot")
 })
 
-//token = "EAACqiDyR6mEBAKWxGV24E0W5vNpSZBa6EQhZBIQ3J7isHEqWPu0kQs4kyAv08Fup8jZATHA83ZBf4OtnfVDnczyjWTwyIxHCZB2hSTDc9HEcYQMg3dyOGdpv8Y7fFmnRNrCzMY3WrZCZCswBZBwd6ikx4ytmnoThuZBi5o3EW90J3EwZDZD"
+//token = "EAACqiDyR6mEBAJBHZAPPmKYh46H9R9PZABsMtyPpyAuKApOsk3NfIVxelkP5anHhpvZCIObwJQVtSHDcJ35YAX6DmXh0VgFc3UWbyDvPlalqYgbmXTZCExcYUB4ZAFiZAzd9E0wNaBnFO2tqRdhAYrjJyu9kw0itKJGBXgolVDEgZDZD"
 
 app.get('/webhook/', function(req, res){
-	if(req.query['hub.verify_token'] === "blondiebytes"){
+	if(req.query['hub.verify_token'] === "sherlocked"){
 		res.send(req.query['hub.challenge'])
 	}
 	res.send("wrong token")
