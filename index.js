@@ -16,7 +16,7 @@ app.use(bodyParser.json())
 app.get('/', function(req, res){
 	res.send("Hi I'm a chatbot")
 })
-
+/*
 token = "EAACqiDyR6mEBAKWxGV24E0W5vNpSZBa6EQhZBIQ3J7isHEqWPu0kQs4kyAv08Fup8jZATHA83ZBf4OtnfVDnczyjWTwyIxHCZB2hSTDc9HEcYQMg3dyOGdpv8Y7fFmnRNrCzMY3WrZCZCswBZBwd6ikx4ytmnoThuZBi5o3EW90J3EwZDZD"
 
 app.get('/webhook/', function(req, res){
@@ -61,3 +61,4 @@ function sendText(sender, text){
 app.listen(app.get('port'), function(){
 	console.log("running:port")
 })
+*/
