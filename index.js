@@ -57,11 +57,6 @@ function sendText(sender, text){
 			console.log("sending error")
 		} else if(response.body.error){
 			console.log("response body error")
-			console.log("error : " + (String)error)
-			console.log("response : " + (String)response)
-			console.log("body : " + (String)body)
-			console.log("response.body : " + (String)response.body)
-			console.log("response.body.error : " + (String)response.body.error)
 
 		}
 	})
