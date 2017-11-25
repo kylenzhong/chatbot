@@ -1,11 +1,15 @@
-'use strict'
+'use strict' //strict opering context, e.g  must use var or let before a variable name
 
-const express = require('express')
+
+//require depensence
+const express = require('express') 
 const bodyParser = require('body-parser')
 const request = require('request')
 
+//initatze the app into a express application
 const app = express()
 
+//set the port
 app.set('port', (process.env.PORT || 5000))
 
 // parse application/x-www-form-urlencoded
@@ -40,7 +44,6 @@ app.post('/webhook/', function(req, res){
 		if (event.message && event.message.text){
 			let text = event.message.text
 			sendText(sender, "Text echo: " + text.substring(0,100))
-			console.log("ready to send a message")
 		}
 	}
 	res.sendStatus(200)

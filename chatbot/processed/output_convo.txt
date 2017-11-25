@@ -1,0 +1,240 @@
+HUMAN ++++ whats up
+BOT ++++ no . . . . . . . . . . . . . . . . . .
+HUMAN ++++ thats wrong
+BOT ++++ no . . . . . . . . . . . . . . . . . .
+HUMAN ++++ ok
+BOT ++++ no . . . . . . . . . . . . . . . . . .
+HUMAN ++++ say something else
+BOT ++++ no . . . . . . . . . . . . . . . . . .
+HUMAN ++++ this is not helpful at all
+BOT ++++ no . . . . . . . . . . . . . . . . . .
+=============================================
+HUMAN ++++ talk to me
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+HUMAN ++++ do you understand
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+HUMAN ++++ don't just say what
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+HUMAN ++++ do you know anything else
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+HUMAN ++++ i dont like you
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+HUMAN ++++ hi
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+HUMAN ++++ no
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+HUMAN ++++ okay
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+HUMAN ++++ say something
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+HUMAN ++++ what
+BOT ++++ what . . . . . . . . . . . . . . . . . .
+=============================================
+HUMAN ++++ What is your name
+BOT ++++ i .
+HUMAN ++++ what?
+BOT ++++ i .
+HUMAN ++++ ok
+BOT ++++ i .
+HUMAN ++++ can you say something else
+BOT ++++ i '
+HUMAN ++++ I don't like you 
+BOT ++++ i '
+HUMAN ++++ am I doing this right
+BOT ++++ i '
+=============================================
+HUMAN ++++ can we talk now?
+BOT ++++ yes ,
+HUMAN ++++ thanks
+BOT ++++ you ,
+HUMAN ++++ what is your name
+BOT ++++ you ,
+HUMAN ++++ say something else
+BOT ++++ you ,
+HUMAN ++++ I don't like this
+BOT ++++ you ,
+HUMAN ++++ you ,
+BOT ++++ you ,
+HUMAN ++++ no
+BOT ++++ you ,
+HUMAN ++++ hi
+BOT ++++ you ,
+=============================================
+HUMAN ++++ are you trained
+BOT ++++ i . . . . . . . . . . . . . . . . . .
+HUMAN ++++ dude
+BOT ++++ i . . . . . . . . . . . . . . . . . .
+HUMAN ++++ are you okay
+BOT ++++ i . . . . . . . . . . . . . . . . . .
+HUMAN ++++ it's not working at all
+BOT ++++ i . . . . . . . . . . . . . . . . . .
+HUMAN ++++ are you sure you've been trained
+BOT ++++ i . . . . . . . . . . . . . . . . . .
+HUMAN ++++ I hate you
+BOT ++++ i . . . . . . . . . . . . . . . . . .
+=============================================
+HUMAN ++++ are you smart
+BOT ++++ i don ' t know .
+HUMAN ++++ what is your name
+BOT ++++ i don ' t know .
+HUMAN ++++ don't repeat youselve
+BOT ++++ you ' re not .
+HUMAN ++++ don't do this
+BOT ++++ you don ' t .
+HUMAN ++++ are you happy
+BOT ++++ i ' m sorry .
+HUMAN ++++ how is your day
+BOT ++++ you ' re not .
+HUMAN ++++ how are you doing
+BOT ++++ i don ' t know .
+HUMAN ++++ what do you know
+BOT ++++ you know .
+HUMAN ++++ how is it going
+BOT ++++ you ' re not .
+HUMAN ++++ hi
+BOT ++++ 
+HUMAN ++++ how is it going
+BOT ++++ you ' re not .
+HUMAN ++++ don't say that
+BOT ++++ you don ' t .
+HUMAN ++++ what are you saying
+BOT ++++ i ' m not going to get out .
+HUMAN ++++ what 
+BOT ++++ you ' re going to go .
+HUMAN ++++ wtf
+BOT ++++ 
+HUMAN ++++ hi
+BOT ++++ 
+HUMAN ++++ say something
+BOT ++++ what ?
+HUMAN ++++ hello?
+BOT ++++ hello .
+HUMAN ++++ happy thanksgiving
+BOT ++++ what ?
+HUMAN ++++ say something else please
+BOT ++++ what ?
+HUMAN ++++ ok
+BOT ++++ 
+HUMAN ++++ I don't like you
+BOT ++++ you don ' t .
+HUMAN ++++ yes
+BOT ++++ you ' re going to go .
+HUMAN ++++ not going
+BOT ++++ you ' re not .
+HUMAN ++++ are you better now
+BOT ++++ no .
+HUMAN ++++ thanks
+BOT ++++ 
+HUMAN ++++ please 
+BOT ++++ you ' re not .
+HUMAN ++++ I am
+BOT ++++ you ' re not .
+HUMAN ++++ what are you saying
+BOT ++++ i ' m not going to get out .
+HUMAN ++++ get out
+BOT ++++ you ' re not .
+HUMAN ++++ okay shut up
+BOT ++++ 
+HUMAN ++++ do you know me
+BOT ++++ no .
+HUMAN ++++ it was not nice seeing you
+BOT ++++ no .
+=============================================
+HUMAN ++++ are you smart
+BOT ++++ i ' m not going to be .
+HUMAN ++++ okay?
+BOT ++++ i ' m going to be a very .
+HUMAN ++++ what are you saying
+BOT ++++ i ' m going to be a very .
+HUMAN ++++ stop
+BOT ++++ i ' m going to be a very .
+HUMAN ++++ don't
+BOT ++++ i ' m not going to get out of here .
+HUMAN ++++ bye
+BOT ++++ 
+HUMAN ++++ get out of here
+BOT ++++ i ' ll be back here .
+HUMAN ++++ Don't say that
+BOT ++++ i ' m not going to be .
+HUMAN ++++ say something else
+BOT ++++ what ?
+HUMAN ++++ hi
+BOT ++++ hi .
+HUMAN ++++ bye
+BOT ++++ 
+HUMAN ++++ bye
+BOT ++++ 
+HUMAN ++++ don't ignore me
+BOT ++++ i ' m not going to you .
+HUMAN ++++ come to me
+BOT ++++ i ' ll be back .
+HUMAN ++++ I hate you
+BOT ++++ i ' m not going to you .
+HUMAN ++++ bye
+BOT ++++ 
+HUMAN ++++ have a nice dat
+BOT ++++ i ' m not going to be a very .
+HUMAN ++++ nice to meet you
+BOT ++++ i ' m going to be a very .
+HUMAN ++++ what are you saying
+BOT ++++ i ' m going to be a very .
+HUMAN ++++ don't say that
+BOT ++++ i ' m not going to be .
+=============================================
+HUMAN ++++ where are you 
+BOT ++++ where ?
+HUMAN ++++ yes
+BOT ++++ you ' re a doctor ?
+HUMAN ++++ no
+BOT ++++ no , no , no , no , no , no , no , no !
+HUMAN ++++ stop saying that
+BOT ++++ i ' m not .
+HUMAN ++++ what time is it?
+BOT ++++ a little .
+HUMAN ++++ stop
+BOT ++++ i ' m not .
+HUMAN ++++ don't repeat yourself
+BOT ++++ i ' m not .
+HUMAN ++++ ok
+BOT ++++ i ' m going to .
+HUMAN ++++ hi
+BOT ++++ hi .
+HUMAN ++++ nice to meet you
+BOT ++++ what ?
+HUMAN ++++ what is your favorite color
+BOT ++++ i ' m not going to be .
+HUMAN ++++ stop saying that
+BOT ++++ i ' m not .
+HUMAN ++++ ok
+BOT ++++ i ' m going to .
+HUMAN ++++ yes or no
+BOT ++++ i ' m not .
+HUMAN ++++ are you high
+BOT ++++ i ' m not .
+HUMAN ++++ do you like me
+BOT ++++ i ' m not .
+HUMAN ++++ nice to meet you
+BOT ++++ what ?
+HUMAN ++++ okay
+BOT ++++ 
+HUMAN ++++ bye
+BOT ++++ you ' re not going to me .
+HUMAN ++++ see you later
+BOT ++++ i ' m not .
+HUMAN ++++ come here
+BOT ++++ i ' m not going to .
+HUMAN ++++ shut up
+BOT ++++ i ' m going to .
+HUMAN ++++ say something
+BOT ++++ what ?
+HUMAN ++++ what is your name
+BOT ++++ i ' m not .
+HUMAN ++++ my name is kyle
+BOT ++++ what ?
+HUMAN ++++ my favorite color is blue
+BOT ++++ i ' m not .
+HUMAN ++++ are you happy
+BOT ++++ i ' m not .
+HUMAN ++++ should i buy it
+BOT ++++ i ' m not .
+=============================================
